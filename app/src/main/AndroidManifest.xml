@@ -18,7 +18,7 @@
         <!-- Xposed / LSPosed метаданные -->
         <meta-data android:name="xposedmodule" android:value="true" />
         <meta-data android:name="xposeddescription"
-            android:value="Wi-Fi environment spoofer based on geolocation" />
+            android:value="Baal Utils: Wi-Fi environment simulation based on geolocation" />
         <meta-data android:name="xposedminversion" android:value="93" />
         <meta-data android:name="xposedscope" android:resource="@array/xposed_scope" />
         <!-- Новый механизм XSharedPreferences в LSPosed (вместо WORLD_READABLE) -->

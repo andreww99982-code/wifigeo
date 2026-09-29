@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WifiSpoofer</string>
+    <string name="app_name">Baal Utils</string>
     <string name="btn_sync">🛰 Синхронизировать эфир</string>
     <string name="btn_clear">🗑 Очистить кэш</string>
     <string name="status_idle">Ожидание…</string>
