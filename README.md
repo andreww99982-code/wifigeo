@@ -1,4 +1,4 @@
-# WifiSpoofer — LSPosed-модуль (Android 10–15)
+# Baal Utils — LSPosed-модуль (Android 10–15)
 
 Сборка: открыть папку в Android Studio (Ladybug+, JDK 17) → Build → Build APK(s).
 gradle-wrapper.jar/gradlew не включены — Android Studio подтянет Gradle 8.9 сам
@@ -18,4 +18,4 @@ gradle-wrapper.jar/gradlew не включены — Android Studio подтян
 ## Сборка через GitHub Actions
 1. Создайте репозиторий на GitHub, залейте содержимое этой папки (включая скрытую .github).
 2. Вкладка Actions → Build APK (запускается автоматически или кнопкой Run workflow).
-3. По завершении откройте запуск → раздел Artifacts → WifiSpoofer-debug-apk.
+3. По завершении откройте запуск → раздел Artifacts → Baal-Utils-debug-apk.
